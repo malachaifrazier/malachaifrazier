@@ -15,10 +15,10 @@
 Thanks for visiting my Github profile! 👋
 <br>
 
-I write about Technology, snippets and resources at my **[blog](https://malachai.xyz/blog)**.
+I go on about Tech, Music, Startups, International Politics and other odd things at my **[WIP 🙃 blog](https://malachai.xyz/blog)**.
 
 I've done several **[projects](https://malachai.xyz/products)** using various technologies,
-View my **[resume](https://drive.google.com/file/d/1bIpIxLYWTH7dTLKit4tpt2HV5F7EWqGO/view?usp=sharing)**,
+View my **[resume](https://docs.google.com/document/d/1Qnq8yRqk_GQ1NFosC_5SnIeUpgpm7UaJ373vQJyX1jQ/edit?usp=sharing)**,
 Ask me anything **[here](https://github.com/malachaifrazier/malachaifrazier/issues/new)**,
 or **[email](mailto:chaizer.music@gmail.com)** me.
 <br>
@@ -30,16 +30,19 @@ or **[email](mailto:chaizer.music@gmail.com)** me.
 <br>
 
 <h3>
-  <strong>Languages, Frameworks and Tools that I use 🛠️</strong>
+  <strong>Some Languages, Frameworks and Tools that I use 🛠️</strong>
 </h3>
 
 <hr/>
-- <i>Ruby on Rails</i>
+- <i>Ruby/Ruby on Rails</i>
 - <i>React/React Native</i>
 - <i>NodeJS</i>
 - <i>VueJS</i>
 - <i>EmberJS</i>
 - <i>JQuery</i>
+- <i>Lua</i>
+- <i>GoLang</i>
+- <i>Swift</i>
 <!-- <hr/> -->
 - <i>JavaScript</i>
 - <i>Bootstrap</i>
@@ -47,10 +50,10 @@ or **[email](mailto:chaizer.music@gmail.com)** me.
 - <i>CSS3</i>
 - <i>Git</i>
 <!-- <hr/> -->
-<!-- - <i>GoLang</i> -->
-- <i>Docker</i>
+- <i>Docker 👎</i>
 - <i>PostgreSQL</i>
-- <i>MySQL</i>
+- <i>MySQL 👎</i>
+- <i></i>
 <!-- <hr/> -->
 - <i>Redis</i>
 - <i>MongoDB</i>
@@ -65,15 +68,15 @@ or **[email](mailto:chaizer.music@gmail.com)** me.
 </h3>
 
 - 🔭 Working on: Fullstack development, Essentialism, Mental Health
-- 🌱 Learning: Product, Design and React Native, Self Love
-- 👯 Looking to collaborate on: Web, Mobile and IoT Projects
-- 💬 Ask me about: Code, startups and life
+- 🌱 Learning: Product, Design, Game Design and Development, Self Love
+- 👯 Looking to collaborate on: Web, Mobile, Game, Music and IoT Projects
+- 💬 Ask me about: Code, startups, Music, International Politics and The Absurdity of Life
 - 📫 How to reach me: chaizer.music@gmail.com &
-**[@Chaizermusic](https://twitter.com/chaizermusic)**
-
+**[@fatheroffifty](https://twitter.com/fatheroffifty)**
 
 <br>
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300">
 
 
 Special thanks to [ABSphreak](https://www.github.com/absphreak) for letting me know about this cool feature.
+I stole lots from his page 😉 
