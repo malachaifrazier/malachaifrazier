@@ -1,10 +1,10 @@
 <h1>
-  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/malachaifrazier/malachaifrazier/blob/master/gifs/Hi.gif" width="30px">
+  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <nerds/>! <img src="https://github.com/malachaifrazier/malachaifrazier/blob/master/gifs/Hi.gif" width="30px">
 </h1>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=malachaifrazier.malachaifrazier)
 <a href="https://www.linkedin.com/in/malachaifrazier" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/chaizermusic" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><!-- <a href="https://www.facebook.com/malachaifrazier0" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> --><a href="http://www.malachai.xyz" target="_blank">
+<a href="https://www.instagram.com/malcreatesstuff" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><!-- <a href="https://www.facebook.com/malachaifrazier0" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> --><a href="http://www.malachai.xyz" target="_blank">
 <img src="https://img.shields.io/static/v1?label=Website&message=malachai.xyz&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
 </a>
 <a href="http://www.malachai.xyz/works" target="_blank">
@@ -30,12 +30,12 @@ or **[email](mailto:chaizer.music@gmail.com)** me.
 <br>
 
 <h3>
-  <strong>Some Languages, Frameworks and Tools that I use 🛠️</strong>
+  <strong>Some Languages, Frameworks, and Tools that I use 🛠️</strong>
 </h3>
 
 <hr/>
-- <i>Ruby/Ruby on Rails</i>
-- <i>React/React Native</i>
+- <i>Ruby & Ruby on Rails</i>
+- <i>React</i>
 - <i>NodeJS</i>
 - <i>VueJS</i>
 - <i>EmberJS</i>
@@ -72,7 +72,7 @@ or **[email](mailto:chaizer.music@gmail.com)** me.
 - 👯 Looking to collaborate on: Web, Mobile, Game, Music and IoT Projects
 - 💬 Ask me about: Code, startups, Music, International Politics and The Absurdity of Life
 - 📫 How to reach me: chaizer.music@gmail.com &
-**[@fatheroffifty](https://twitter.com/fatheroffifty)**
+**[@malcreatesstuff](https://x.com/malcreatesstuff)**
 
 <br>
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300">
