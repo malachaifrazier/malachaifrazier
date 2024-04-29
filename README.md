@@ -2,7 +2,6 @@
   𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <nerds/>! <img src="https://github.com/malachaifrazier/malachaifrazier/blob/master/gifs/Hi.gif" width="30px">
 </h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=malachaifrazier.malachaifrazier)
 <a href="https://www.linkedin.com/in/malachaifrazier" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/malcreatesstuff" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><!-- <a href="https://www.facebook.com/malachaifrazier0" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> --><a href="http://www.malachai.xyz" target="_blank">
 <img src="https://img.shields.io/static/v1?label=Website&message=malachai.xyz&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
