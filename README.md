@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/malcreatesstuff" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><!-- <a href="https://www.facebook.com/malachaifrazier0" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> --><a href="http://www.malachai.xyz" target="_blank">
 <img src="https://img.shields.io/static/v1?label=Website&message=malachai.xyz&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
 </a>
-<a href="http://www.malachai.xyz/works" target="_blank">
+<a href="https://malachaifrazier.com/" target="_blank">
 <img src="https://img.shields.io/badge/Projects-72-yellow?&style=flat-square" alt="Projects"/>
 </a>
 
@@ -16,7 +16,7 @@ Thanks for visiting my Github profile! 👋
 
 I go on about Tech, Music, Startups, International Politics and other odd things at my **[WIP 🙃 blog](https://malachai.xyz/blog)**.
 
-I've done several **[projects](https://malachai.xyz/products)** using various technologies,
+I've done several **[projects](https://malachaifrazier.com/projects)** using various technologies,
 View my **[resume](https://docs.google.com/document/d/1Qnq8yRqk_GQ1NFosC_5SnIeUpgpm7UaJ373vQJyX1jQ/edit?usp=sharing)**,
 Ask me anything **[here](https://github.com/malachaifrazier/malachaifrazier/issues/new)**,
 or **[email](mailto:chaizer.music@gmail.com)** me.
